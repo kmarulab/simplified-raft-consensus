@@ -49,7 +49,10 @@ The system is composed of three primary layers:
 ### Build Instructions
 
 1. Clone the repository to your local machine.
-
+    ```Bash
+    git clone https://github.com/kmarulab/simplified-raft-consensus
+    ```
+    
 2. Create and navigate to the build directory:
 
     ```Bash
